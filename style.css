@@ -2,6 +2,7 @@ body{
     margin: 0px;
     font-family: Arial;
     background: rgb(200, 200, 227);
+    overflow-x: none;
 }
 
 .logo{
